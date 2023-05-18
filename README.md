@@ -1,4 +1,4 @@
-# google-clone 💻
+# Google Clone 💻
 
 Clon de Google hecho por [@FranciscoimanolSuarez](https://github.com/FranciscoImanolSuarez) en donde bajo su mentoria nos explico y enseño como es un flujo de trabajo 
 en GitHub (Git Flow). 
