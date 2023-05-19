@@ -29,8 +29,8 @@ function init() {
 }
 
 function resizeReset() {
-    w = canvas.width = windows.innerWidth;
-    h = canvas.height = windows.innerHeight;
+    w = canvas.width = window.innerWidth;
+    h = canvas.height = window.innerHeight;
 }
 
 function animationLoop() {
